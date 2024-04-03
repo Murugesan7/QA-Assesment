@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-03T14:11:16 IST" name="Default suite" finished-at="2024-04-03T14:12:52 IST" duration-ms="96408">
+    <groups>
+    </groups>
+    <test started-at="2024-04-03T14:11:16 IST" name="Default test" finished-at="2024-04-03T14:12:52 IST" duration-ms="96408">
+      <class name="org.test.Flipkart">
+        <test-method signature="tc01_launchBrowser()[pri:1, instance:org.test.Flipkart@485966cc]" started-at="2024-04-03T14:11:16 IST" name="tc01_launchBrowser" finished-at="2024-04-03T14:11:50 IST" duration-ms="33820" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01_launchBrowser -->
+        <test-method signature="tc02_navigateProductDescriptionPage()[pri:2, instance:org.test.Flipkart@485966cc]" started-at="2024-04-03T14:11:50 IST" name="tc02_navigateProductDescriptionPage" finished-at="2024-04-03T14:12:35 IST" duration-ms="44658" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc02_navigateProductDescriptionPage -->
+        <test-method signature="tc03_verifyImage()[pri:3, instance:org.test.Flipkart@485966cc]" started-at="2024-04-03T14:12:35 IST" name="tc03_verifyImage" finished-at="2024-04-03T14:12:43 IST" duration-ms="8542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc03_verifyImage -->
+        <test-method signature="tc04_verifyPrice()[pri:4, instance:org.test.Flipkart@485966cc]" started-at="2024-04-03T14:12:43 IST" name="tc04_verifyPrice" finished-at="2024-04-03T14:12:51 IST" duration-ms="7649" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc04_verifyPrice -->
+        <test-method signature="tc05_closeTheBrowser()[pri:5, instance:org.test.Flipkart@485966cc]" started-at="2024-04-03T14:12:51 IST" name="tc05_closeTheBrowser" finished-at="2024-04-03T14:12:52 IST" duration-ms="1501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc05_closeTheBrowser -->
+      </class> <!-- org.test.Flipkart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
